@@ -13,6 +13,7 @@
 #define REMOTEXY_SERIAL_RX 8 
 #define REMOTEXY_SERIAL_TX 7 
 #define REMOTEXY_SERIAL_SPEED 9600
+#define REMOTEXY_ACCESS_PASSWORD "1234"
 
 #if defined(Bluetooth)
 
